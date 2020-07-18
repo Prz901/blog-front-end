@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Login } from './Login'
+export { default as Page404 } from './Page404'
+export { default as BlogPost } from './BlogPost'
+export { default as PostViewed } from './PostViewed'
+export { default as NewPost } from './NewPost'
+export { default as Profile } from './Profile'
+export { default as UpdatePost } from './UpdatePost'

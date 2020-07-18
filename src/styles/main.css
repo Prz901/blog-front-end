@@ -1,0 +1,25 @@
+.img-card{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    object-fit: cover;
+    height: 200px;
+    filter: brightness(50%);
+}
+
+.post-container p{
+    color:#718096;
+    text-align: justify;
+    margin-bottom: 16px;
+}
+
+.post-container .section-title{
+    color: #2d3748;
+    text-align: justify;
+    margin-bottom: 16px;
+}
+
+
+
